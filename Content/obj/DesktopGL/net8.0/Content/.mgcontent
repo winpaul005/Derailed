@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/farla/source/repos/Derailed/Content/src/img/72e8f9dbae541b3769dd531c5627b6e1.jpg</File>
+    <File>C:/Users/farla/source/repos/Derailed/Content/src/img/spr/placeholder/NOTE_assets.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>src/img/spr/placeholder/NOTE_assets</File>
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/farla/source/repos/Derailed/Content/src/img/72e8f9dbae541b3769dd531c5627b6e1.jpg","C:/Users/farla/source/repos/Derailed/Content/bin/DesktopGL/Content/src/img/72e8f9dbae541b3769dd531c5627b6e1.xnb","TextureProcessor","Texture2DContent",20496,543229,0.1393389
+"C:/Users/farla/source/repos/Derailed/Content/src/img/spr/placeholder/NOTE_assets.png","C:/Users/farla/source/repos/Derailed/Content/bin/DesktopGL/Content/src/img/spr/placeholder/NOTE_assets.xnb","TextureProcessor","Texture2DContent",712573,8388693,0.3298527

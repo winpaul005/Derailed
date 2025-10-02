@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derailed", "Derailed.csproj", "{804C9041-4B90-4B3E-A3E6-860114AEDE8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameLibTest", "..\MonoGameLibTest\MonoGameLibTest.csproj", "{BF89BC58-D998-49EE-8248-AC48DCD0A360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804C9041-4B90-4B3E-A3E6-860114AEDE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804C9041-4B90-4B3E-A3E6-860114AEDE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804C9041-4B90-4B3E-A3E6-860114AEDE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804C9041-4B90-4B3E-A3E6-860114AEDE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF89BC58-D998-49EE-8248-AC48DCD0A360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF89BC58-D998-49EE-8248-AC48DCD0A360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF89BC58-D998-49EE-8248-AC48DCD0A360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF89BC58-D998-49EE-8248-AC48DCD0A360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B2BC3D7-4A10-44F5-99E4-23C828CA0A73}
+	EndGlobalSection
+EndGlobal
